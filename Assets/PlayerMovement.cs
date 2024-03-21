@@ -10,10 +10,12 @@ public class PlayerMovement : MonoBehaviour
     public float speed = 12f;
     
     private bool isGrounded;
+
+   
     // Start is called before the first frame update
     void Start()
     {
-        
+      
     }
 
     // Update is called once per frame
